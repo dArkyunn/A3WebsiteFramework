@@ -10,9 +10,9 @@ export default class MyDocument extends Document {
         return (
             <html>
                 <Head>
-                    <style>{`body { margin: 0 } /* custom! */`}</style>
+                    <meta charset="utf-8"></meta>
                 </Head>
-                <body className='custom_class'>
+                <body>
                     <Main />
                     <NextScript />
                 </body>
