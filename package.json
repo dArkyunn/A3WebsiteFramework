@@ -1,0 +1,49 @@
+{
+  "name": "a3websiteframework",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "mysql": "^2.16.0",
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next -p 80",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dArkyunn/A3WebsiteFramework.git"
+  },
+  "keywords": [
+    "arma3",
+    "a3",
+    "website",
+    "nextjs",
+    "framework",
+    "chat",
+    "forms",
+    "docs",
+    "news",
+    "newsfeed",
+    "altis-life",
+    "armalife",
+    "arma3life",
+    "altis",
+    "altislife",
+    "life",
+    "a3l"
+  ],
+  "author": "Mateusz 'dArkyunn' Skowron",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/dArkyunn/A3WebsiteFramework/issues"
+  },
+  "homepage": "https://github.com/dArkyunn/A3WebsiteFramework#readme"
+}
